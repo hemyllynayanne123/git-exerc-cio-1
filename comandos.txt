@@ -1,0 +1,5 @@
+git init, ele inicia um novo repositório, criando uma pasta oculta que amarzena todo o histórico de versões do projeto.
+git add, ele repara as alterações nos arquivos para serem adicionadas ao próximo commit.
+git commit -m, ele salva as alterações preparadas no repositório local, criando um novo commit com uma mensagem descrita sobreas mudanças feitas.
+git status, ele exibe o estado atual do repositúrio, mostrandoquais arquivos foram modificados, quais estão prontos para commit e quais não estão sendo rastreados.
+git remote, ele adiciona um repositório remoto, como o GitHub para enviar (push) e receber (pull) alterações do repositório remoto para o repositório local.
